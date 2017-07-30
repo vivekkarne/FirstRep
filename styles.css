@@ -37,8 +37,8 @@
 }
 
 .is-compact .portfolio-logo {
-  height: 50px;
-  width: 50px;
+	background: url(images/logosmall.png) 50% no-repeat;
+  height: 128px;
   margin-top: 7px;
 }
 
